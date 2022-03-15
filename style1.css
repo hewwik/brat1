@@ -18,8 +18,9 @@
 .picture{
  background: url("https://img.xatblog.net/image/LMQKsZFkkz.gif");
     background-size:cover;
+    align-items: center;
     margin-left: 20%;
-    position: relative;
+    position: center;
     padding: 25px 30px;
     margin: 40px 0;
     color: #d49d9d;
@@ -28,6 +29,6 @@
     transition: 0.5s;
     letter-spacing: 4px;
     overflow: hidden;
-    margin-right: 50px;
+    
+    margin-left: 35%;
 }
-

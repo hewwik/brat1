@@ -8,5 +8,11 @@
     background: url("https://img.xatblog.net/image/LMQKsZFkkz.gif");
     background-size:cover;
     background-attachment: fixed;
+
+}
+.picture{
+ background: url("https://img.xatblog.net/image/LMQKsZFkkz.gif");
+    background-size:cover;
+    margin-left: 20%;
 }
 

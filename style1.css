@@ -5,14 +5,29 @@
     box-sizing: border-box;
 }
 .container-fluid{
-    background: url("https://img.xatblog.net/image/LMQKsZFkkz.gif");
-    background-size:cover;
-    background-attachment: fixed;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   background: url("https://img.xatblog.net/image/LMQKsZFkkz.gif");
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    z-index: 1300;
 
 }
 .picture{
  background: url("https://img.xatblog.net/image/LMQKsZFkkz.gif");
     background-size:cover;
     margin-left: 20%;
+    position: relative;
+    padding: 25px 30px;
+    margin: 40px 0;
+    color: #d49d9d;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    letter-spacing: 4px;
+    overflow: hidden;
+    margin-right: 50px;
 }
 
